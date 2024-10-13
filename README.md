@@ -81,6 +81,20 @@ Sustain-ify helps you make sustainable choices in everyday life. From upcycling 
   <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/profile.png" alt="Figma Prototype 3" width="230">
 </p>
 
+##  DIY!
+
+User Can choose what kind of output he/she wants based in which GenAi will give a fun DIY project which the user can follow the instructions and make!
+ 
+ 
+ <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/input.jpeg" alt="Input_DIY">
+
+ <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/easy.jpeg" alt="easy">
+<img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/medium.jpeg" alt="medium">
+<img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/hard.jpeg" alt="hard">
+
+ <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY1.jpeg" alt="easy">
+ <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY2.jpeg" alt="easy">
+
 
 ## 🔮 Vision: Sustainability for All
 
@@ -110,6 +124,7 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
    pip install -r requirements.txt
 
 <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/fastapi.jpeg" alt="Fast_API">
+<img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/fastapi_chu.jpeg" alt="Fast_API">
 
 <a name="tech-stack"></a>
 
