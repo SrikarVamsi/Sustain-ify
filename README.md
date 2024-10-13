@@ -123,11 +123,25 @@ User Can choose what kind of output he/she wants based in which GenAi will give 
 
 ## UI Design Images
 
-<p align="center">
-  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY1.jpeg" alt="UI_DIY1" width="50%">
-  <br>
-  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY2.jpeg" alt="UI_DIY2" width="50%">
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/product.jpg" alt="Input_DIY" width="300px">
+      <b>Product Details</b>
+    </td>
+    <td align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/nutrition.jpg" alt="Input_DIY" width="300px">
+      <b>Nutrition</b>
+    </td>
+    <td align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/health.jpg" alt="Input_DIY" width="300px">
+      <b>Health Impact</b>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
