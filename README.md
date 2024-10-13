@@ -107,7 +107,7 @@ User Can choose what kind of output he/she wants based in which GenAi will give 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/easy.jpeg" alt="Easy_DIY" height="100px" width="200px"><br>
+      <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/easy.jpeg" alt="Easy_DIY" width="200px"><br>
       <b>Easy</b>
     </td>
     <td align="center">
