@@ -94,6 +94,8 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
    ```bash
    pip install -r requirements.txt
 
+<img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/fastapi.jpeg" alt="Fast_API">
+
 ## 🛠️ Tech Stack
 
 ### Languages and Frameworks
