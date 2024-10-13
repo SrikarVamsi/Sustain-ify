@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MonospaceSurya/SUSTAIN-IFY_SFT/blob/main/images/Frame%202.png" width="800" height="600">
+  <img src="https://github.com/MonospaceSurya/SUSTAIN-IFY_SFT/blob/main/images/Frame%202.png" width="800" height="700">
 </p>
 
 <div align="center">
