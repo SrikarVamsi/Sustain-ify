@@ -81,7 +81,7 @@ Sustain-ify helps you make sustainable choices in everyday life. From upcycling 
   <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/profile.png" alt="Figma Prototype 3" width="230">
 </p>
 
-##  DIY!
+<!--##  DIY!
 
 User Can choose what kind of output he/she wants based in which GenAi will give a fun DIY project which the user can follow the instructions and make!
  
@@ -93,7 +93,42 @@ User Can choose what kind of output he/she wants based in which GenAi will give 
 <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/hard.jpeg" alt="hard">
 
  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY1.jpeg" alt="easy">
- <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY2.jpeg" alt="easy">
+ <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY2.jpeg" alt="easy">-->
+
+# DIY Projects
+
+## Input Image
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/input.jpeg" alt="Input_DIY" width="300px">
+</p>
+
+## Output Images
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/easy.jpeg" alt="Easy_DIY" height="100px" width="200px"><br>
+      <b>Easy</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/medium.jpeg" alt="Medium_DIY" width="200px"><br>
+      <b>Medium</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/hard.jpeg" alt="Hard_DIY" width="200px"><br>
+      <b>Hard</b>
+    </td>
+  </tr>
+</table>
+
+## UI Design Images
+
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY1.jpeg" alt="UI_DIY1" width="50%">
+  <br>
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/UI_DIY2.jpeg" alt="UI_DIY2" width="50%">
+</p>
+
 
 
 ## 🔮 Vision: Sustainability for All
