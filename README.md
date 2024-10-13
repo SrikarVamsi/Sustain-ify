@@ -58,6 +58,11 @@ Sustain-ify helps you make sustainable choices in everyday life. From upcycling 
 
 - **DIY Assistant**  
   Scan household items and get creative DIY solutions to repurpose them. Users can share their creations in the community and earn rewards.
+
+  <!-- Adding the RAG-based system image here -->
+  <p align="center">
+    <img src="https://github.com/YourUsername/Sustain-ify/blob/main/images/RAG_based_system.png" alt="RAG-based system for DIY Assistant">
+  </p>
   
 - **Eco Shopping Assistant**  
   Scan products to get detailed sustainability info, and get suggestions for better eco-friendly alternatives.
@@ -65,7 +70,22 @@ Sustain-ify helps you make sustainable choices in everyday life. From upcycling 
 - **Health Reports**  
   Users can upload health reports to receive suggestions for sustainable shopping habits that benefit both the environment and themselves.
 
-<a name="vision"></a>
+<!--### Figma Prototypes
+
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/login.png" alt="Figma Prototype 1" width="250">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/signup.png" alt="Figma Prototype 2" width="250">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/profile.png" alt="Figma Prototype 3" width="250">
+</p>-->
+
+## Figma Prototypes
+
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/login.png" alt="Figma Prototype 1" width="230" style="margin-right: 20px;">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/signup.png" alt="Figma Prototype 2" width="230" style="margin-right: 20px;">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/profile.png" alt="Figma Prototype 3" width="230">
+</p>
+
 
 ## 🔮 Vision: Sustainability for All
 
@@ -96,6 +116,8 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
 
 <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/fastapi.jpeg" alt="Fast_API">
 
+<a name="tech-stack"></a>
+
 ## 🛠️ Tech Stack
 
 ### Languages and Frameworks
@@ -110,11 +132,40 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
   <img src="https://img.shields.io/badge/Fast_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
+
+<!-- Adding Firebase database images here 
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db1_realtime.jpeg" alt="Firebase Realtime Database">
+</p>
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media Database">
+</p>
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/Scrape_Graph-4caf50?style=for-the-badge" alt="Scrape Graph"/>
   <img src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
+
+<!--### Firebase!:
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db1_realtime.jpeg" alt="Firebase Realtime Database">
+</p>
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media Database">
+</p>-->
+
+## 🔥 Firebase Integration
+
+We use Firebase 🔥 to manage user data in real-time and provide cloud-based storage solutions. It ensures a smooth experience for users and secures their data efficiently.
+
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db1_realtime.jpeg" alt="Firebase Realtime Database" width="380">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media Database" width="380">
+  <br>
+  <i>Firebase Realtime Database & Firebase Media-based Database</i>
+</p>
+
 
 ## 🤖 Join the Community
 
@@ -178,10 +229,8 @@ Meet the amazing team Sustain-ify!:
      </a>
    </p>
 
-
 <div align="center">
 
 <p align="right"><a href="#readme-top">↑ Back to Top ↑</a></p>
 
 *<p align="left">Made with ❤️ for a sustainable future.</p>*
-   
