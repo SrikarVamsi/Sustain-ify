@@ -179,10 +179,16 @@ We use Firebase 🔥 to manage user data in real-time and provide cloud-based st
 We use Firebase 🔥 to manage user data in real-time and provide cloud-based storage solutions. It ensures a smooth experience for users and secures their data efficiently.
 
 <p align="center">
-  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db1_realtime.jpeg" alt="Firebase Realtime Database" width="500">
-  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media-based Database" width="500">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db1_realtime.jpeg" alt="Firebase Realtime Database">
+  <i>Firebase Realtime Database</i>
+</p>
+
+
+ <p align="center"> 
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media-based Database">
+  <i> Firebase Media-based Database</i>
   <br>
-  <i>Firebase Realtime Database (left) | Firebase Media-based Database (right)</i>
+  
 </p>
 
 ## 🎉 MongoDB Integration
