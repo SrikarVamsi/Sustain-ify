@@ -155,16 +155,46 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
   <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media Database">
 </p>-->
 
+<!--## 🔥 Firebase Integration
+
+We use Firebase 🔥 to manage user data in real-time and provide cloud-based storage solutions. It ensures a smooth experience for users and secures their data efficiently.
+
+
+<p align="center">
+  
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db1_realtime.jpeg" alt="Firebase Realtime Database" width="500">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media Database" width="500">
+  <br>
+  <i>Firebase Realtime Database & Firebase Media-based Database</i>
+</p>
+
+## MongoDB
+ <p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/MongoDB.jpeg">
+  <br>
+</p>-->
+
 ## 🔥 Firebase Integration
 
 We use Firebase 🔥 to manage user data in real-time and provide cloud-based storage solutions. It ensures a smooth experience for users and secures their data efficiently.
 
 <p align="center">
-  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db1_realtime.jpeg" alt="Firebase Realtime Database" width="380">
-  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media Database" width="380">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db1_realtime.jpeg" alt="Firebase Realtime Database" width="500">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/db_mediaBased.jpeg" alt="Firebase Media-based Database" width="500">
   <br>
-  <i>Firebase Realtime Database & Firebase Media-based Database</i>
+  <i>Firebase Realtime Database (left) | Firebase Media-based Database (right)</i>
 </p>
+
+## 🎉 MongoDB Integration
+
+MongoDB 🎉 powers our app with a scalable, flexible NoSQL database solution. It allows Sustain-ify to store user preferences and eco-friendly suggestions securely, with fast data retrieval and scalability as the community grows.
+
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/MongoDB.jpeg" alt="MongoDB">
+  <br>
+  <i>MongoDB NoSQL Database</i>
+</p>
+
 
 
 ## 🤖 Join the Community
