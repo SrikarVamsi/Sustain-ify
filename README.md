@@ -58,11 +58,6 @@ Sustain-ify helps you make sustainable choices in everyday life. From upcycling 
 
 - **DIY Assistant**  
   Scan household items and get creative DIY solutions to repurpose them. Users can share their creations in the community and earn rewards.
-
-  <!-- Adding the RAG-based system image here -->
-  <p align="center">
-    <img src="https://github.com/YourUsername/Sustain-ify/blob/main/images/RAG_based_system.png" alt="RAG-based system for DIY Assistant">
-  </p>
   
 - **Eco Shopping Assistant**  
   Scan products to get detailed sustainability info, and get suggestions for better eco-friendly alternatives.
