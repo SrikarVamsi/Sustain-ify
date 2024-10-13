@@ -91,7 +91,7 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
 ## 🌈 Workflow Diagram
 
 <p align="center">
-  <img src="https://github.com/YourUsername/Sustain-ify/blob/main/images/sustainify_workflow.png" alt="workflow">
+  <img src="https://github.com/SrikarVamsi/Sustain-ify/blob/main/sustain-ify-User-flow.png" alt="workflow">
 </p>
 
 <a name="get-started"></a>
