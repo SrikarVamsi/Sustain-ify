@@ -1,12 +1,12 @@
 {
-    "GEMINI_API1" : "AIzaSyDm4_MxyCOzycokC2LHuqE9fUeIn-3fL6E",
-    "GEMINI_API2" : "AIzaSyAUM75YmpuvV6o1MJp9UBawfhqyWtQ1K_s",
+    "GEMINI_API1" : "Your api Key",
+    "GEMINI_API2" : "Your api Key",
 
     "model" : "gemini-1.5-pro",
 
     
-    "uri" : "bolt://localhost:7687",
-    "username" : "neo4j",
-    "password" : "hackharvard"
+    "uri" : "uri",
+    "username" : "username",
+    "password" : "pwd"
 
 }
