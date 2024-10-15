@@ -1,5 +1,5 @@
 {
-    "GEMINI_API1" : "Your api Key",
+    "GEMINI_API" : "Your api Key",
 
     "model" : "gemini-1.5-pro",
 
