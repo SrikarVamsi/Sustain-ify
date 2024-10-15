@@ -11,7 +11,7 @@ app = FastAPI()
 with open('config.json', 'r') as f:
     data = json.load(f)
 
-os.environ['GOOGLE_API_KEY'] = data['GEMINI_API1']
+os.environ['GOOGLE_API_KEY'] = data['GEMINI_API']
 
 
 llm = ChatGoogleGenerativeAI(model=data['model'])
